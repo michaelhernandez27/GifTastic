@@ -1,0 +1,15 @@
+.baseball {
+	float: left;
+}
+#baseball-form {
+	font-size: 20px;
+    margin: 0;
+}
+.panel-heading{
+	margin: 15px;
+}
+button {
+	margin: 1px;
+	background: black;
+	color: white;
+}
